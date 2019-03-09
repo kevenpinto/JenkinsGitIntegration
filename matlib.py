@@ -4,7 +4,7 @@ Added a Comment to the Py Program
 """
 
 def add_nums(x,y):
-    x+y
+    pass
 
 def multiply_nums(x,y):
     pass
